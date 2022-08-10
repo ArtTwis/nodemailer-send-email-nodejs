@@ -1,0 +1,26 @@
+{
+  "name": "nodemailer-send-email-nodejs",
+  "version": "1.0.0",
+  "description": "we will create a simple Node.js and Express app and implement the Nodemailer module to add a contact form.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtTwis/nodemailer-send-email-nodejs.git"
+  },
+  "author": "ArtTwis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtTwis/nodemailer-send-email-nodejs/issues"
+  },
+  "homepage": "https://github.com/ArtTwis/nodemailer-send-email-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "nodemailer": "^6.7.7",
+    "nodemon": "^2.0.19"
+  }
+}
